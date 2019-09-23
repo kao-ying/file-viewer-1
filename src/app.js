@@ -31,8 +31,8 @@ import xml from '../example_files/SampleSpec2.xml'
 
 ReactDOM.render(
   <FileViewer
-    fileType="docx"
-    filePath={docx}
+    fileType="rtf"
+    filePath={rtf}
   />,
   window.document.getElementById('app')
 );

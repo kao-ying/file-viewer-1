@@ -1,7 +1,7 @@
 {
-  "name": "react-file-viewer",
-  "version": "1.1.0",
-  "description": "Extendable file viewer for web",
+  "name": "react-file-viewer-modified",
+  "version": "0.0.1",
+  "description": "Extendable file viewer for web, modified",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "repository": {
