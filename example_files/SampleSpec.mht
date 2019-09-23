@@ -1,0 +1,5132 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D56D9D.65853760"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01D56D9D.65853760
+Content-Location: file:///C:/DE7B4D03/SampleSpec.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List href=3D"SampleSpec_files/filelist.xml">
+<link rel=3DthemeData href=3D"SampleSpec_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"SampleSpec_files/colorschememapping.=
+xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseWord2010TableStyleRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"375">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]--><![if !supportAnnotations]>
+<style id=3D"dynCom" type=3D"text/css"><!-- --></style>
+<script language=3D"JavaScript"><!--
+function msoCommentShow(anchor_id, com_id)
+{
+	if(msoBrowserCheck())=20
+		{
+		c =3D document.all(com_id);
+		a =3D document.all(anchor_id);
+		if (null !=3D c && null =3D=3D c.length && null !=3D a && null =3D=3D a.l=
+ength)
+			{
+			var cw =3D c.offsetWidth;
+			var ch =3D c.offsetHeight;
+			var aw =3D a.offsetWidth;
+			var ah =3D a.offsetHeight;
+			var x  =3D a.offsetLeft;
+			var y  =3D a.offsetTop;
+			var el =3D a;
+			while (el.tagName !=3D "BODY")=20
+				{
+				el =3D el.offsetParent;
+				x =3D x + el.offsetLeft;
+				y =3D y + el.offsetTop;
+				}
+			var bw =3D document.body.clientWidth;
+			var bh =3D document.body.clientHeight;
+			var bsl =3D document.body.scrollLeft;
+			var bst =3D document.body.scrollTop;
+			if (x + cw + ah / 2 > bw + bsl && x + aw - ah / 2 - cw >=3D bsl )=20
+				{ c.style.left =3D x + aw - ah / 2 - cw; }
+			else=20
+				{ c.style.left =3D x + ah / 2; }
+			if (y + ch + ah / 2 > bh + bst && y + ah / 2 - ch >=3D bst )=20
+				{ c.style.top =3D y + ah / 2 - ch; }
+			else=20
+				{ c.style.top =3D y + ah / 2; }
+			c.style.visibility =3D "visible";
+}	}	}
+function msoCommentHide(com_id)=20
+{
+	if(msoBrowserCheck())
+		{
+		c =3D document.all(com_id);
+		if (null !=3D c && null =3D=3D c.length)
+		{
+		c.style.visibility =3D "hidden";
+		c.style.left =3D -1000;
+		c.style.top =3D -1000;
+		} }=20
+}
+function msoBrowserCheck()
+{
+	ms =3D navigator.appVersion.indexOf("MSIE");
+	vers =3D navigator.appVersion.substring(ms + 5, ms + 6);
+	ie4 =3D (ms > 0) && (parseInt(vers) >=3D 4);
+	return ie4;
+}
+if (msoBrowserCheck())
+{
+	document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackg=
+round");
+	document.styleSheets.dynCom.addRule(".msocomoff","display: none");
+	document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden");
+	document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute");
+	document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000");
+	document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000");
+	document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%");
+	document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackgrou=
+nd");
+	document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid th=
+reedlightshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid =
+threedshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid=
+ threedshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid t=
+hreedlightshadow");
+	document.styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt=
+");
+	document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100");
+}
+// --></script>
+<![endif]>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1671 0 0 0 159 0;}
+@font-face
+	{font-family:"Source Sans Pro";
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1610613495 33554433 0 0 415 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:20.0pt;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#073763;
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h1.CxSpFirst
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:20.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#073763;
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h1.CxSpMiddle
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#073763;
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h1.CxSpLast
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#073763;
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h2
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#0B5394;
+	mso-bidi-font-weight:normal;}
+h2.CxSpFirst
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#0B5394;
+	mso-bidi-font-weight:normal;}
+h2.CxSpMiddle
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#0B5394;
+	mso-bidi-font-weight:normal;}
+h2.CxSpLast
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#0B5394;
+	mso-bidi-font-weight:normal;}
+h3
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#3C78D8;
+	mso-bidi-font-weight:normal;}
+h3.CxSpFirst
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#3C78D8;
+	mso-bidi-font-weight:normal;}
+h3.CxSpMiddle
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#3C78D8;
+	mso-bidi-font-weight:normal;}
+h3.CxSpLast
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:#3C78D8;
+	mso-bidi-font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h4.CxSpFirst
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h4.CxSpMiddle
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h4.CxSpLast
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;}
+h5.CxSpFirst
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;}
+h5.CxSpMiddle
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;}
+h5.CxSpLast
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+h6.CxSpFirst
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+h6.CxSpMiddle
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+h6.CxSpLast
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Comment Text Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoSubtitleCxSpFirst, li.MsoSubtitleCxSpFirst, div.MsoSubtitleCxSpFirst
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoSubtitleCxSpMiddle, li.MsoSubtitleCxSpMiddle, div.MsoSubtitleCxSpMiddle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoSubtitleCxSpLast, li.MsoSubtitleCxSpLast, div.MsoSubtitleCxSpLast
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Trebuchet MS",sans-serif;
+	mso-fareast-font-family:"Trebuchet MS";
+	mso-bidi-font-family:"Trebuchet MS";
+	color:#666666;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-fareast-font-family:"Source Sans Pro";
+	color:black;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Comment Text";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Source Sans Pro",sans-serif;
+	mso-ascii-font-family:"Source Sans Pro";
+	mso-fareast-font-family:"Source Sans Pro";
+	mso-hansi-font-family:"Source Sans Pro";
+	mso-bidi-font-family:"Source Sans Pro";
+	color:black;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("SampleSpec_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("SampleSpec_files/header.htm") fcs;
+	mso-endnote-separator:url("SampleSpec_files/header.htm") es;
+	mso-endnote-continuation-separator:url("SampleSpec_files/header.htm") ecs;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:0in;
+	mso-footer-margin:.5in;
+	mso-page-numbers:1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:208617302;
+	mso-list-template-ids:216807962;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1
+	{mso-list-id:274142788;
+	mso-list-template-ids:-1530088630;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2
+	{mso-list-id:449278545;
+	mso-list-template-ids:-1551215994;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3
+	{mso-list-id:476843309;
+	mso-list-template-ids:1493462982;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4
+	{mso-list-id:710420695;
+	mso-list-template-ids:-219509248;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5
+	{mso-list-id:783573545;
+	mso-list-template-ids:-258962794;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6
+	{mso-list-id:896933952;
+	mso-list-template-ids:15898314;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l6:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7
+	{mso-list-id:1007438684;
+	mso-list-template-ids:2107933598;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8
+	{mso-list-id:1242788612;
+	mso-list-template-ids:2108321398;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l8:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9
+	{mso-list-id:1286430002;
+	mso-list-template-ids:-39658244;}
+@list l9:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l9:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10
+	{mso-list-id:1287808451;
+	mso-list-template-ids:2099153236;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l10:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11
+	{mso-list-id:1325203736;
+	mso-list-template-ids:1015831062;}
+@list l11:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l11:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12
+	{mso-list-id:1976059125;
+	mso-list-template-ids:1442346872;}
+@list l12:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l12:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13
+	{mso-list-id:2077120428;
+	mso-list-template-ids:1671466598;}
+@list l13:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l13:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14
+	{mso-list-id:2116172602;
+	mso-list-template-ids:-979751434;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:1.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:2.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CF;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.25in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25CB;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:3.75in;
+	text-decoration:none;
+	text-underline:none;}
+@list l14:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25A0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:4.25in;
+	text-decoration:none;
+	text-underline:none;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:black;}
+table.a
+	{mso-style-name:"";
+	mso-tstyle-rowband-size:1;
+	mso-tstyle-colband-size:1;
+	mso-style-unhide:no;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:black;}
+table.a0
+	{mso-style-name:"";
+	mso-tstyle-rowband-size:1;
+	mso-tstyle-colband-size:1;
+	mso-style-unhide:no;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Source Sans Pro",sans-serif;
+	color:black;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"2"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoTitle><a name=3D"_4mgoaq4wk484"></a>Upload more file types</p>
+
+<h1><a name=3D"_wnn1dasw9l3x"></a>Why?</h1>
+
+<p class=3DMsoNormal>Not all the files that need to be shared with the fiel=
+d are
+PDFs. Spreadsheets, images and word docs are the most common other file typ=
+es
+that field users might need access to when out on a jobsite. They will have
+native apps to view those files on their <span class=3DGramE>devices</span>=
+ but
+customers want to be able to share all of that information in one place.</p>
+
+<p class=3DMsoNormal>It will also allow us to observe which other files are=
+ the
+most common and allow us to investigate potentially incorporating viewing
+experiences for those formats.</p>
+
+<h1><a name=3D"_61wvc3vg63af"></a>Data</h1>
+
+<p class=3DMsoNormal>20-30 people a day attempt to upload a non-PDF file to
+Attachments as seen here: <a
+href=3D"https://analytics.amplitude.com/org/16/chart/72tjyd7/edit/rzojrom">=
+<span
+style=3D'color:#1155CC'>https://analytics.amplitude.com/org/16/chart/72tjyd=
+7/edit/rzojrom</span></a>\</p>
+
+<h1><a name=3D"_mjs5q6g5onjx"></a>Hypothesis</h1>
+
+<p class=3DMsoNormal>Allowing all file types to be uploaded will increase t=
+he <span
+class=3DGramE>amount</span> of files uploaded and shared via PlanGrid</p>
+
+<h1><a name=3D"_kemlnxuyut2v"></a>Relevant objective:</h1>
+
+<p class=3DMsoNormal>Increase average number of documents uploaded to a pro=
+ject</p>
+
+<h1><a name=3D"_2wszace9zerb"></a><a style=3D'mso-comment-reference:_1;mso-=
+comment-date:
+20170329T0024'>MVP</a><![if !supportAnnotations]><a class=3Dmsocomanchor
+id=3D"_anchor_1" onmouseover=3D"msoCommentShow('_anchor_1','_com_1')"
+onmouseout=3D"msoCommentHide('_com_1')" href=3D"#_msocom_1" language=3DJava=
+Script
+name=3D"_msoanchor_1">[1]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></h1>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>Minimum work r=
+equired
+to test our hypothesis<o:p></o:p></i></p>
+
+<p class=3DMsoNormal>Enable the upload of:</p>
+
+<h2><a name=3D"_modncfpqnw1u"></a>Images</h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.<span class=3DSpellE>png</span><o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.jpeg<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.jpg<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.gif<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.<a style=3D'mso-comment-reference:_4;mso-comment-date=
+:20170124T0747'></a><a
+style=3D'mso-comment-reference:_3;mso-comment-date:20170124T0736'></a><a
+style=3D'mso-comment-reference:_2;mso-comment-date:20170124T0747'><span
+style=3D'mso-comment-continuation:3'><span style=3D'mso-comment-continuatio=
+n:4'>bmp</span></span></a></span><span
+style=3D'mso-comment-continuation:3'><span style=3D'mso-comment-continuatio=
+n:4'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_2"
+onmouseover=3D"msoCommentShow('_anchor_2','_com_2')"
+onmouseout=3D"msoCommentHide('_com_2')" href=3D"#_msocom_2" language=3DJava=
+Script
+name=3D"_msoanchor_2">[2]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></span></span><span
+style=3D'mso-comment-continuation:4'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_3"
+onmouseover=3D"msoCommentShow('_anchor_3','_com_3')"
+onmouseout=3D"msoCommentHide('_com_3')" href=3D"#_msocom_3" language=3DJava=
+Script
+name=3D"_msoanchor_3">[3]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_4"
+onmouseover=3D"msoCommentShow('_anchor_4','_com_4')"
+onmouseout=3D"msoCommentHide('_com_4')" href=3D"#_msocom_4" language=3DJava=
+Script
+name=3D"_msoanchor_4">[4]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><o:p></o:p></s=
+pan></p>
+
+<h2><a name=3D"_ftqdxx3bgcba"></a><a style=3D'mso-comment-reference:_6;mso-=
+comment-date:
+20170131T0511'></a><a style=3D'mso-comment-reference:_5;mso-comment-date:20=
+170131T0511'><span
+style=3D'mso-comment-continuation:6'>Spreadsheets</span></a><span
+style=3D'mso-comment-continuation:6'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_5"
+onmouseover=3D"msoCommentShow('_anchor_5','_com_5')"
+onmouseout=3D"msoCommentHide('_com_5')" href=3D"#_msocom_5" language=3DJava=
+Script
+name=3D"_msoanchor_5">[5]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_6"
+onmouseover=3D"msoCommentShow('_anchor_6','_com_6')"
+onmouseout=3D"msoCommentHide('_com_6')" href=3D"#_msocom_6" language=3DJava=
+Script
+name=3D"_msoanchor_6">[6]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></h2>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.xlsx</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.<span class=3DSpellE>xls</span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.csv</p>
+
+<h2><a name=3D"_4otalzbfq1yp"></a><a style=3D'mso-comment-reference:_7;mso-=
+comment-date:
+20170216T0704'>Word/Open Doc documents</a><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_7"
+onmouseover=3D"msoCommentShow('_anchor_7','_com_7')"
+onmouseout=3D"msoCommentHide('_com_7')" href=3D"#_msocom_7" language=3DJava=
+Script
+name=3D"_msoanchor_7">[7]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.<a style=3D'mso-comment-reference:_10;mso-comment-=
+date:
+20170124T0745'></a><a style=3D'mso-comment-reference:_9;mso-comment-date:20=
+170124T0736'></a><a
+style=3D'mso-comment-reference:_8;mso-comment-date:20170124T0745'><span
+style=3D'mso-comment-continuation:9'><span style=3D'mso-comment-continuatio=
+n:10'>rtf</span></span></a><span
+style=3D'mso-comment-continuation:9'><span style=3D'mso-comment-continuatio=
+n:10'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_8"
+onmouseover=3D"msoCommentShow('_anchor_8','_com_8')"
+onmouseout=3D"msoCommentHide('_com_8')" href=3D"#_msocom_8" language=3DJava=
+Script
+name=3D"_msoanchor_8">[8]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></span></span><span
+style=3D'mso-comment-continuation:10'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_9"
+onmouseover=3D"msoCommentShow('_anchor_9','_com_9')"
+onmouseout=3D"msoCommentHide('_com_9')" href=3D"#_msocom_9" language=3DJava=
+Script
+name=3D"_msoanchor_9">[9]</a><![endif]><span style=3D'mso-special-character=
+:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_10"
+onmouseover=3D"msoCommentShow('_anchor_10','_com_10')"
+onmouseout=3D"msoCommentHide('_com_10')" href=3D"#_msocom_10" language=3DJa=
+vaScript
+name=3D"_msoanchor_10">[10]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.doc</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>.docx</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><span style=3D'color:#2F2F2F;background:white;mso-h=
+ighlight:
+white'>.txt</span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><a style=3D'mso-comment-referen=
+ce:
+_11;mso-comment-date:20170307T0705'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>.</span></a><span class=3DSpellE><span style=3D'mso-co=
+mment-continuation:
+11'><span style=3D'color:#2F2F2F;background:white;mso-highlight:white'>odf<=
+/span></span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_11"
+onmouseover=3D"msoCommentShow('_anchor_11','_com_11')"
+onmouseout=3D"msoCommentHide('_com_11')" href=3D"#_msocom_11" language=3DJa=
+vaScript
+name=3D"_msoanchor_11">[11]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><o:p></o:p></s=
+pan></p>
+
+<h2><a name=3D"_dr7imvqmd9an"></a><a style=3D'mso-comment-reference:_17;mso=
+-comment-date:
+20170124T0737'></a><a style=3D'mso-comment-reference:_16;mso-comment-date:2=
+0170124T0721'></a><a
+style=3D'mso-comment-reference:_15;mso-comment-date:20170123T2320'></a><a
+style=3D'mso-comment-reference:_14;mso-comment-date:20170123T2319'></a><a
+style=3D'mso-comment-reference:_13;mso-comment-date:20170123T2319'></a><a
+style=3D'mso-comment-reference:_12;mso-comment-date:20170216T0614'><span
+style=3D'mso-comment-continuation:13'><span style=3D'mso-comment-continuati=
+on:14'><span
+style=3D'mso-comment-continuation:15'><span style=3D'mso-comment-continuati=
+on:16'><span
+style=3D'mso-comment-continuation:17'>Videos</span></span></span></span></s=
+pan></a><span
+style=3D'mso-comment-continuation:13'><span style=3D'mso-comment-continuati=
+on:14'><span
+style=3D'mso-comment-continuation:15'><span style=3D'mso-comment-continuati=
+on:16'><span
+style=3D'mso-comment-continuation:17'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_12"
+onmouseover=3D"msoCommentShow('_anchor_12','_com_12')"
+onmouseout=3D"msoCommentHide('_com_12')" href=3D"#_msocom_12" language=3DJa=
+vaScript
+name=3D"_msoanchor_12">[12]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span></span></span></span><span
+style=3D'mso-comment-continuation:14'><span style=3D'mso-comment-continuati=
+on:15'><span
+style=3D'mso-comment-continuation:16'><span style=3D'mso-comment-continuati=
+on:17'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_13"
+onmouseover=3D"msoCommentShow('_anchor_13','_com_13')"
+onmouseout=3D"msoCommentHide('_com_13')" href=3D"#_msocom_13" language=3DJa=
+vaScript
+name=3D"_msoanchor_13">[13]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span></span></span><span
+style=3D'mso-comment-continuation:15'><span style=3D'mso-comment-continuati=
+on:16'><span
+style=3D'mso-comment-continuation:17'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_14"
+onmouseover=3D"msoCommentShow('_anchor_14','_com_14')"
+onmouseout=3D"msoCommentHide('_com_14')" href=3D"#_msocom_14" language=3DJa=
+vaScript
+name=3D"_msoanchor_14">[14]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span></span><span
+style=3D'mso-comment-continuation:16'><span style=3D'mso-comment-continuati=
+on:17'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_15"
+onmouseover=3D"msoCommentShow('_anchor_15','_com_15')"
+onmouseout=3D"msoCommentHide('_com_15')" href=3D"#_msocom_15" language=3DJa=
+vaScript
+name=3D"_msoanchor_15">[15]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span><span
+style=3D'mso-comment-continuation:17'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_16"
+onmouseover=3D"msoCommentShow('_anchor_16','_com_16')"
+onmouseout=3D"msoCommentHide('_com_16')" href=3D"#_msocom_16" language=3DJa=
+vaScript
+name=3D"_msoanchor_16">[16]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_17"
+onmouseover=3D"msoCommentShow('_anchor_17','_com_17')"
+onmouseout=3D"msoCommentHide('_com_17')" href=3D"#_msocom_17" language=3DJa=
+vaScript
+name=3D"_msoanchor_17">[17]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE><span style=3D'color:#2=
+F2F2F;
+background:white;mso-highlight:white'>Webm</span></span><span style=3D'colo=
+r:
+#2F2F2F;background:white;mso-highlight:white'><o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>mpg<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>MOV<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>F4v<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE><span style=3D'color:#2=
+F2F2F;
+background:white;mso-highlight:white'>Avi</span></span><span style=3D'color=
+:#2F2F2F;
+background:white;mso-highlight:white'><o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'color:#2F2F2F;background:whit=
+e;
+mso-highlight:white'>Mp4<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l6 level1 lfo6'><![if !supportLists]><span
+style=3D'color:#2F2F2F;background:white;mso-highlight:white'><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE><span style=3D'color:#2=
+F2F2F;
+background:white;mso-highlight:white'>Wmv</span></span><span style=3D'color=
+:#2F2F2F;
+background:white;mso-highlight:white'><o:p></o:p></span></p>
+
+<h2><a name=3D"_gu27uq4tcjuk"></a>CAD files</h2>
+
+<p class=3DMsoNormal>As we look to improve to make a truly smart record set=
+, we
+need to get access to the original design files that generated the 2D sheets
+our customers look at in PlanGrid. This unlocks a huge amount of possibilit=
+ies
+to understand a lot more about our user&#8217;s projects, automate a lot of
+activities they currently need to do and provide better insights on top of
+their drawings.</p>
+
+<p class=3DMsoNormal>Allowing those design files to be uploaded to our atta=
+chment
+section is a step in this direction as it allows us access to those files.<=
+/p>
+
+<table class=3Da border=3D1 cellspacing=3D0 cellpadding=3D0 width=3D662 sty=
+le=3D'border-collapse:
+ collapse;mso-table-layout-alt:fixed;border:none;mso-border-alt:solid black=
+ .75pt;
+ mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insid=
+eh:
+ .75pt solid black;mso-border-insidev:.75pt solid black'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D205 valign=3Dbottom style=3D'width:153.75pt;border:solid blac=
+k 1.0pt;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>Revit<o:p></o:p></span>=
+</p>
+  </td>
+  <td width=3D55 valign=3Dbottom style=3D'width:41.25pt;border:solid black =
+1.0pt;
+  border-left:none;mso-border-left-alt:solid black .75pt;mso-border-alt:sol=
+id black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span class=3DGramE><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'>.<span
+  class=3DSpellE>rvt</span></span></span><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'><o:p></o:p></span></p>
+  </td>
+  <td width=3D402 valign=3Dbottom style=3D'width:301.5pt;border:solid black=
+ 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .75pt;mso-border-alt:sol=
+id black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>A Revit Project file<o:=
+p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D205 valign=3Dbottom style=3D'width:153.75pt;border:solid blac=
+k 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .75pt;mso-border-alt:solid=
+ black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>DWG<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D55 valign=3Dbottom style=3D'width:41.25pt;border-top:none;bor=
+der-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>.dwg<o:p></o:p></span><=
+/p>
+  </td>
+  <td width=3D402 valign=3Dbottom style=3D'width:301.5pt;border-top:none;bo=
+rder-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>A modeling file usually
+  used with AutoCAD<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D205 valign=3Dbottom style=3D'width:153.75pt;border:solid blac=
+k 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .75pt;mso-border-alt:solid=
+ black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>Drawing Exchange Format=
+<o:p></o:p></span></p>
+  </td>
+  <td width=3D55 valign=3Dbottom style=3D'width:41.25pt;border-top:none;bor=
+der-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>.<span class=3DSpellE>d=
+xf</span><o:p></o:p></span></p>
+  </td>
+  <td width=3D402 valign=3Dbottom style=3D'width:301.5pt;border-top:none;bo=
+rder-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>A modeling file that ca=
+n be
+  used by multiple drawing programs<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td width=3D205 valign=3Dbottom style=3D'width:153.75pt;border:solid blac=
+k 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .75pt;mso-border-alt:solid=
+ black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>DGN<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D55 valign=3Dbottom style=3D'width:41.25pt;border-top:none;bor=
+der-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span class=3DGramE><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'>.<span
+  class=3DSpellE>dgn</span></span></span><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'><o:p></o:p></span></p>
+  </td>
+  <td width=3D402 valign=3Dbottom style=3D'width:301.5pt;border-top:none;bo=
+rder-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>A modeling file used by
+  Bentley <span class=3DSpellE>Microstation</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td width=3D205 valign=3Dbottom style=3D'width:153.75pt;border:solid blac=
+k 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .75pt;mso-border-alt:solid=
+ black .75pt;
+  padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>Design Web Format<o:p><=
+/o:p></span></p>
+  </td>
+  <td width=3D55 valign=3Dbottom style=3D'width:41.25pt;border-top:none;bor=
+der-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span class=3DGramE><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'>.<span
+  class=3DSpellE>dwf</span></span></span><span style=3D'font-size:10.0pt;
+  line-height:115%;font-family:"Arial",sans-serif;mso-fareast-font-family:A=
+rial'>,
+  .<span class=3DSpellE>dwfx</span><o:p></o:p></span></p>
+  </td>
+  <td width=3D402 valign=3Dbottom style=3D'width:301.5pt;border-top:none;bo=
+rder-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75p=
+t;
+  mso-border-alt:solid black .75pt;padding:2.0pt 2.0pt 2.0pt 2.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:115%;fon=
+t-family:
+  "Arial",sans-serif;mso-fareast-font-family:Arial'>A modeling file with
+  restricted information, mainly used for viewing<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'color:#2F2F2F;background:white;mso-high=
+light:
+white'><o:p>&nbsp;</o:p></span></p>
+
+<h2><a name=3D"_7zjtimbpij73"></a>Google Earth files</h2>
+
+<p class=3DMsoNormal>KML and KMZ files are Google Earth&#8217;s file format=
+ for
+storing placemarks, network link information, and other information. If the
+Google Earth app is installed on the device, these can be opened to link
+directly to that location.</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l12 level1 lfo12'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>KMZ</p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l12 level1 lfo12'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>KML</p>
+
+<h2><a name=3D"_p14kij2fntf3"></a><o:p>&nbsp;</o:p></h2>
+
+<h1><a name=3D"_95xg8fle9mxr"></a>Designs</h1>
+
+<p class=3DMsoNormal>Each file type should have relevant icons on all platf=
+orms</p>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>Attachment log=
+<o:p></o:p></i></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l3 level1 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Web: <a href=3D"https://zpl.io/1TCr"><span
+style=3D'color:#1155CC'>https://zpl.io/1TCr</span></a> </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l3 level2 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Assets: <a
+href=3D"https://www.dropbox.com/sh/s2h89lchs4xsb5b/AABBTBE3Szbynq5xjaEkrybp=
+a?dl=3D0"><span
+style=3D'color:#1155CC'>https://www.dropbox.com/sh/s2h89lchs4xsb5b/AABBTBE3=
+Szbynq5xjaEkrybpa?dl=3D0</span></a></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l3 level1 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>iOS: <a href=3D"https://zpl.io/8nfvn"><span
+style=3D'color:#1155CC'>https://zpl.io/8nfvn</span></a></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l3 level2 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Assets: <a
+href=3D"https://www.dropbox.com/sh/48nyujbao33xjqz/AADU0WPOmQkCVM8HORDjAZ1_=
+a?dl=3D0"><span
+style=3D'color:#1155CC'>https://www.dropbox.com/sh/48nyujbao33xjqz/AADU0WPO=
+mQkCVM8HORDjAZ1_a?dl=3D0</span></a>
+</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l3 level1 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Android: <a href=3D"https://zpl.io/ZEXtb"><span
+style=3D'color:#1155CC'>https://zpl.io/ZEXtb</span></a></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l3 level2 lfo7'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><span class=3DSpellE>Asssets</span>: <a
+href=3D"https://www.dropbox.com/sh/egvv1do8tvdst6w/AAAj3wH7vdNkTtxR-IggS_Ol=
+a?dl=3D0"><span
+style=3D'color:#1155CC'>https://www.dropbox.com/sh/egvv1do8tvdst6w/AAAj3wH7=
+vdNkTtxR-IggS_Ola?dl=3D0</span></a>
+</p>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>Image viewer<o=
+:p></o:p></i></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l1 level1 lfo15'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Web: <a href=3D"https://zpl.io/Z1cwV55"><span
+style=3D'color:#1155CC'>https://zpl.io/Z1cwV55</span></a> </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l1 level1 lfo15'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>iOS: <a href=3D"https://zpl.io/16jcd3"><span
+style=3D'color:#1155CC'>https://zpl.io/16jcd3</span></a> </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l1 level1 lfo15'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Android: <a href=3D"https://zpl.io/2rY7sF"><span
+style=3D'color:#1155CC'>https://zpl.io/2rY7sF</span></a> </p>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>Video player<o=
+:p></o:p></i></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l7 level1 lfo11'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Web: <a href=3D"https://zpl.io/Z1MhH3"><span
+style=3D'color:#1155CC'>https://zpl.io/Z1MhH3</span></a> </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l7 level1 lfo11'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>iOS/Android: native players</p>
+
+<p class=3DMsoNormal>Other files, including all open document formats, shou=
+ld
+render as pdfs do; centered, drop shadow.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<h2><a name=3D"_x7q8rt1linnf"></a>User journey</h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l5 level1 lfo4'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Clicking on a non-PDF file </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l5 level2 lfo4'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>We<a style=3D'mso-comment-reference:_19;mso-comment=
+-date:
+20170120T0155'></a><a style=3D'mso-comment-reference:_18;mso-comment-date:2=
+0170120T0155'><span
+style=3D'mso-comment-continuation:19'>b: will download it</span></a><span
+style=3D'mso-comment-continuation:19'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_18"
+onmouseover=3D"msoCommentShow('_anchor_18','_com_18')"
+onmouseout=3D"msoCommentHide('_com_18')" href=3D"#_msocom_18" language=3DJa=
+vaScript
+name=3D"_msoanchor_18">[18]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_19"
+onmouseover=3D"msoCommentShow('_anchor_19','_com_19')"
+onmouseout=3D"msoCommentHide('_com_19')" href=3D"#_msocom_19" language=3DJa=
+vaScript
+name=3D"_msoanchor_19">[19]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:1.0in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l5 level2 lfo4'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Mobile clients: <a style=3D'mso-comment-reference:_=
+20;
+mso-comment-date:20170120T0144'>will try to open it outside of PlanGrid with
+the default OS option</a><![if !supportAnnotations]><a class=3Dmsocomanchor
+id=3D"_anchor_20" onmouseover=3D"msoCommentShow('_anchor_20','_com_20')"
+onmouseout=3D"msoCommentHide('_com_20')" href=3D"#_msocom_20" language=3DJa=
+vaScript
+name=3D"_msoanchor_20">[20]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></p>
+
+<h2><a name=3D"_i2rap3b64wi8"></a>Errors</h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]><span class=3DSpellE>Unrecognised</span> file forma=
+t -
+&#8220;That file format is not supported. Click here to see the supported
+formats&#8221;</p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l2 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>File too big - &#8220;That file exceeds our 1GB size
+limit&#8221;</p>
+
+<h2><a name=3D"_sizwc0uov9r7"></a>User stories</h2>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l9 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>As an admin I can upload any file type to PlanGrid =
+via
+the website</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l9 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>As a web user I can view any file type in the
+Attachments log, on any platform, and download it</p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l9 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>As a mobile user I can view any file type in the
+Attachments log, on any platform, and open it outside of PlanGrid</p>
+
+<h1><a name=3D"_un11ghe2flmx"></a><a style=3D'mso-comment-reference:_22;mso=
+-comment-date:
+20170329T0257'></a><a style=3D'mso-comment-reference:_21;mso-comment-date:2=
+0170329T0257'><span
+style=3D'mso-comment-continuation:22'>How attachments work with RFIs</span>=
+</a><span
+style=3D'mso-comment-continuation:22'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_21"
+onmouseover=3D"msoCommentShow('_anchor_21','_com_21')"
+onmouseout=3D"msoCommentHide('_com_21')" href=3D"#_msocom_21" language=3DJa=
+vaScript
+name=3D"_msoanchor_21">[21]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_22"
+onmouseover=3D"msoCommentShow('_anchor_22','_com_22')"
+onmouseout=3D"msoCommentHide('_com_22')" href=3D"#_msocom_22" language=3DJa=
+vaScript
+name=3D"_msoanchor_22">[22]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></h1>
+
+<h2><a name=3D"_uz3iqax74ahj"></a>Problem</h2>
+
+<p class=3DMsoNormal>RFIs can have attachments added to them. They expect t=
+hose
+attachments to be PDFs which causes the following problems:</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l13 level1 lfo3'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>On Web you can no longer export RFIs</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l13 level1 lfo3'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>On iOS the app will crash if you try to open an RFI
+with non-PDF files attached</p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l13 level1 lfo3'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>On Android you can view RFIs with non-<span
+class=3DGramE>PDFs</span> but the preview will think it&#8217;s a PDF</p>
+
+<h2><a name=3D"_3uh44zotzea8"></a>Solution</h2>
+
+<h3><a name=3D"_y8y9q8jscoul"></a>For users on up-to-date clients</h3>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;mso-add-space:auto;text-inde=
+nt:-.25in;
+mso-list:l10 level1 lfo2'><![if !supportLists]><span style=3D'mso-list:Igno=
+re'>&#9679;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>If a user exports an RFI with non-PDFs, we skip the
+non-PDFs and warn the user that they <span class=3DGramE>have to</span> dow=
+nload
+the non-PDF attachments separately</p>
+
+<h3><a name=3D"_8dogw4709s3s"></a>For user on old versions of iOS</h3>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l0 level1 lfo10'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>On iOS the app will crash if you try to open an RFI
+with non-PDF files attached. We will email all the users who have viewed an=
+ RFI
+on iOS in the last month that aren&#8217;t on the most <span class=3DSpellE=
+>uptodate</span>
+version advising them to upgrade.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<h1><a name=3D"_b6rn56f0z2o8"></a>Future enhancements</h1>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>Not part of th=
+e MVP
+but we can do after releasing it<o:p></o:p></i></p>
+
+<p class=3DMsoNormal>View other file types within PlanGrid. Easy ones to ad=
+d are:</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l4 level1 lfo14'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Image viewing on Web</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l4 level1 lfo14'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Image viewing on iOS</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l4 level1 lfo14'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>CSV viewing on iOS</p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l4 level1 lfo14'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Doc viewing on iOS</p>
+
+<h1><a name=3D"_pi1lu7nmzk94"></a>Analytics</h1>
+
+<p class=3DMsoNormal>Information we should have in looker:</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l14 level1 lfo1'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Distribution of total number of file and total file
+size per project or per user</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l14 level1 lfo1'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>File type (extension) as filterable value</p>
+
+<p class=3DMsoNormal>Events:</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<table class=3Da0 border=3D1 cellspacing=3D0 cellpadding=3D0 width=3D624
+ style=3D'border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0in=
+ 5.4pt 0in 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D154 valign=3Dtop style=3D'width:115.5pt;border:solid black 1.=
+0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><b style=3D'mso-bidi-font-weight:normal'>Acti=
+on<o:p></o:p></b></p>
+  </td>
+  <td width=3D262 valign=3Dtop style=3D'width:196.5pt;border:solid black 1.=
+0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0p=
+t 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><b style=3D'mso-bidi-font-weight:normal'>Even=
+t<o:p></o:p></b></p>
+  </td>
+  <td width=3D208 valign=3Dtop style=3D'width:156.0pt;border:solid black 1.=
+0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0p=
+t 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><b style=3D'mso-bidi-font-weight:normal'>Extra
+  attributes<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D154 valign=3Dtop style=3D'width:115.5pt;border:solid black 1.=
+0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt =
+5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>Attachment view</p>
+  </td>
+  <td width=3D262 valign=3Dtop style=3D'width:196.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><span class=3DSpellE><span class=3DGramE>atta=
+chment.view</span></span></p>
+  </td>
+  <td width=3D208 valign=3Dtop style=3D'width:156.0pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>type=3D&lt;extension name&gt;</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D154 valign=3Dtop style=3D'width:115.5pt;border:solid black 1.=
+0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt =
+5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>Attachment download</p>
+  </td>
+  <td width=3D262 valign=3Dtop style=3D'width:196.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><span class=3DSpellE><span class=3DGramE>atta=
+chment.download</span></span></p>
+  </td>
+  <td width=3D208 valign=3Dtop style=3D'width:156.0pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>type=3D&lt;extension name&gt;</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=3D154 valign=3Dtop style=3D'width:115.5pt;border:solid black 1.=
+0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt =
+5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>At<a style=3D'mso-comment-reference:_23;mso-c=
+omment-date:
+  20170412T0024'>tachment uploa</a><![if !supportAnnotations]><a
+  class=3Dmsocomanchor id=3D"_anchor_23"
+  onmouseover=3D"msoCommentShow('_anchor_23','_com_23')"
+  onmouseout=3D"msoCommentHide('_com_23')" href=3D"#_msocom_23"
+  language=3DJavaScript name=3D"_msoanchor_23">[23]</a><![endif]><span
+  style=3D'mso-special-character:comment'>&nbsp;</span>d new</p>
+  </td>
+  <td width=3D262 valign=3Dtop style=3D'width:196.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'><a style=3D'mso-comment-reference:_25;mso-com=
+ment-date:
+  20170302T0922'></a><a style=3D'mso-comment-reference:_24;mso-comment-date=
+:20170302T0922'></a><span
+  class=3DSpellE><span style=3D'mso-comment-continuation:24'><span
+  style=3D'mso-comment-continuation:25'>attachment.upload.new</span></span>=
+</span><span
+  style=3D'mso-comment-continuation:25'><![if !supportAnnotations]><a
+  class=3Dmsocomanchor id=3D"_anchor_24"
+  onmouseover=3D"msoCommentShow('_anchor_24','_com_24')"
+  onmouseout=3D"msoCommentHide('_com_24')" href=3D"#_msocom_24"
+  language=3DJavaScript name=3D"_msoanchor_24">[24]</a><![endif]><span
+  style=3D'mso-special-character:comment'>&nbsp;</span></span><![if !suppor=
+tAnnotations]><a
+  class=3Dmsocomanchor id=3D"_anchor_25"
+  onmouseover=3D"msoCommentShow('_anchor_25','_com_25')"
+  onmouseout=3D"msoCommentHide('_com_25')" href=3D"#_msocom_25"
+  language=3DJavaScript name=3D"_msoanchor_25">[25]</a><![endif]><span
+  style=3D'mso-special-character:comment'>&nbsp;</span></p>
+  </td>
+  <td width=3D208 valign=3Dtop style=3D'width:156.0pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0p=
+t;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt'>
+  <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:
+  normal;mso-pagination:none'>type<span class=3DGramE>=3D[</span>list of all
+  extensions included]</p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<h1><a name=3D"_yl79s7n2r8yd"></a>Remaining decisions/questions</h1>
+
+<p class=3DMsoNormal><i style=3D'mso-bidi-font-style:normal'>What do we nee=
+d to
+decide on before we can get to work on <span class=3DGramE>this</span><o:p>=
+</o:p></i></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Why are users trying to upload photos as attachment=
+s?</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Reach out to users who&#8217;ve tried and ask them =
+what
+they are doing</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>File size limits? And how does that limitation inte=
+ract
+with the above error message?</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>File size limit is 1GB </p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>How do we protect against malicious files?</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>From Mark: &#8220;On Windows, when we download the =
+<span
+class=3DGramE>files</span> we will also ensure that they are marked with
+InternetZone:3 <span class=3DSpellE>attibute</span> stream which means wind=
+ows
+adds additional protection when the file is opened&#8221;</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>From Mark: &#8220;There were PLENTY viruses made in=
+side
+a PDF, and we weren't protected. What we should do (on all clients that upl=
+oad
+docs) is make sure the file uploaded doesn't have a PE header
+(https://msdn.microsoft.com/en-us/library/ms809762.aspx?f=3D255&amp;MSPPErr=
+or=3D-2147217396)
+basically checking if the first two characters are 'MZ' (but I can write up=
+ a
+more detailed explanation). Long term, I think we should offer some antivir=
+us
+for our files, which would be a differentiator - we scan your files and keep
+your workplace safe&#8221;</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Security concerns</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>We have an external security consultant and will
+consult</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Business value in doing this</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Is it circumventing <span class=3DGramE>sheets</spa=
+n></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Bucket size</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>How do we track? Per user? Per organization?</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.5in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level3 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9632;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Looker is only daily</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.5in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level3 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9632;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Tested mechanism to monitor and alert abuse of
+uploading</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.0in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level2 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9675;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>How we stop this ballooning in costs?</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:1.5in;mso-add-space:aut=
+o;
+text-indent:-.25in;mso-list:l8 level3 lfo9'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9632;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Run a trail with a subset of users and see how much
+they upload</p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><a style=3D'mso-comment-referen=
+ce:
+_28;mso-comment-date:20170207T0545'></a><a style=3D'mso-comment-reference:_=
+27;
+mso-comment-date:20170207T0545'><span style=3D'mso-comment-continuation:28'=
+><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>[Mark] From </span></a><span class=3DSpellE><span
+style=3D'mso-comment-continuation:27'><span style=3D'mso-comment-continuati=
+on:28'>eng</span></span></span><span
+style=3D'mso-comment-continuation:27'><span style=3D'mso-comment-continuati=
+on:28'>
+review: we should store the white list of files in an API so that Windows c=
+an
+get to it when we update</span></span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l8 level1 lfo9'><span style=3D'mso-comment-cont=
+inuation:
+27'><span style=3D'mso-comment-continuation:28'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>[Mark] From <span class=3DSpellE>eng</span> review:=
+ we
+should store th<a style=3D'mso-comment-reference:_26;mso-comment-date:20170=
+207T0545'>e
+file size in the DB so we can better understand how it&#8217;s used, if we =
+need
+to add pricing, etc. restrictions.</a><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_26"
+onmouseover=3D"msoCommentShow('_anchor_26','_com_26')"
+onmouseout=3D"msoCommentHide('_com_26')" href=3D"#_msocom_26" language=3DJa=
+vaScript
+name=3D"_msoanchor_26">[26]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span><span
+style=3D'mso-comment-continuation:28'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_27"
+onmouseover=3D"msoCommentShow('_anchor_27','_com_27')"
+onmouseout=3D"msoCommentHide('_com_27')" href=3D"#_msocom_27" language=3DJa=
+vaScript
+name=3D"_msoanchor_27">[27]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_28"
+onmouseover=3D"msoCommentShow('_anchor_28','_com_28')"
+onmouseout=3D"msoCommentHide('_com_28')" href=3D"#_msocom_28" language=3DJa=
+vaScript
+name=3D"_msoanchor_28">[28]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></p>
+
+<h1><a name=3D"_py8yauvyv3lj"></a>Reference Material</h1>
+
+<p class=3DMsoNormalCxSpFirst style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l11 level1 lfo8'><a style=3D'mso-comment-refere=
+nce:
+_31;mso-comment-date:20170214T0220'></a><a style=3D'mso-comment-reference:_=
+30;
+mso-comment-date:20170121T0127'></a><a style=3D'mso-comment-reference:_29;
+mso-comment-date:20170214T0220'><span style=3D'mso-comment-continuation:30'=
+><span
+style=3D'mso-comment-continuation:31'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>You can upload any file type on this environment: <=
+/span></span></a><a
+href=3D"https://plangrid-dev-pr-4160.herokuapp.com/"><span style=3D'mso-com=
+ment-continuation:
+29'><span style=3D'mso-comment-continuation:30'><span style=3D'mso-comment-=
+continuation:
+31'><span style=3D'color:#1155CC'>https://plangrid-dev-pr-4160.herokuapp.co=
+m/</span></span></span></span></a><span
+style=3D'mso-comment-continuation:30'><span style=3D'mso-comment-continuati=
+on:31'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_29"
+onmouseover=3D"msoCommentShow('_anchor_29','_com_29')"
+onmouseout=3D"msoCommentHide('_com_29')" href=3D"#_msocom_29" language=3DJa=
+vaScript
+name=3D"_msoanchor_29">[29]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span></span><span
+style=3D'mso-comment-continuation:31'><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_30"
+onmouseover=3D"msoCommentShow('_anchor_30','_com_30')"
+onmouseout=3D"msoCommentHide('_com_30')" href=3D"#_msocom_30" language=3DJa=
+vaScript
+name=3D"_msoanchor_30">[30]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span></span><![if !supportAnnotations]><a
+class=3Dmsocomanchor id=3D"_anchor_31"
+onmouseover=3D"msoCommentShow('_anchor_31','_com_31')"
+onmouseout=3D"msoCommentHide('_com_31')" href=3D"#_msocom_31" language=3DJa=
+vaScript
+name=3D"_msoanchor_31">[31]</a><![endif]><span style=3D'mso-special-charact=
+er:comment'>&nbsp;</span>
+using the dev <span class=3DSpellE>api</span></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'margin-left:.5in;mso-add-space:auto;
+text-indent:-.25in;mso-list:l11 level1 lfo8'><![if !supportLists]><span
+style=3D'mso-list:Ignore'>&#9679;<span style=3D'font:7.0pt "Times New Roman=
+"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>All the PRs https://plangrid.quip.com/zvBMAV9EzL2H<=
+/p>
+
+</div>
+
+<div style=3D'mso-element:comment-list'><![if !supportAnnotations]>
+
+<hr class=3Dmsocomoff align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_1" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_1','_com_1')"
+onmouseout=3D"msoCommentHide('_com_1')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_1"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+drew.register@plangrid.com
++emilyvm@plangrid.com +bank@plangrid.com See this list for the final confir=
+med
+set of formats that will be supported. These now include CAD and Google Ear=
+th
+files<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_2" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_2','_com_2')"
+onmouseout=3D"msoCommentHide('_com_2')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_2"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Do we really need to support BMP?<o:p></o:p>=
+</span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_3" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_3','_com_3')"
+onmouseout=3D"msoCommentHide('_com_3')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_3"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>It's in there to keep us flexible but happy =
+to
+remove if there's some technical implications<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_4" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_4','_com_4')"
+onmouseout=3D"msoCommentHide('_com_4')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_4"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>no technical problem. they are just very
+inefficient and rarely used.<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_5" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_5','_com_5')"
+onmouseout=3D"msoCommentHide('_com_5')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_5"></a><![e=
+ndif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+tom@plangrid.com what should the analytic e=
+vent
+be? <span class=3DSpellE>current'y</span> we just track id. I think it woul=
+d be
+good to track what format the <span class=3DSpellE>the</span> user is viewi=
+ng<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_6" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_6','_com_6')"
+onmouseout=3D"msoCommentHide('_com_6')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_6"></a><![e=
+ndif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+tom@plangrid.com<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_7" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_7','_com_7')"
+onmouseout=3D"msoCommentHide('_com_7')"><![endif]><span style=3D'mso-commen=
+t-author:
+"John-Peter Etcheber"'><![if !supportAnnotations]><a name=3D"_msocom_7"></a=
+><![endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Can the documents area PDF viewer be used to
+open any of these?<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_8" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_8','_com_8')"
+onmouseout=3D"msoCommentHide('_com_8')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_8"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>People upload RTFs!?<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_9" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_9','_com_9')"
+onmouseout=3D"msoCommentHide('_com_9')"><![endif]><span style=3D'mso-commen=
+t-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_9"></a><![end=
+if]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>No one has yet tried but it is a document ty=
+pe
+that's used. Does it hurt us to allow them to be uploaded?<o:p></o:p></span=
+></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_10" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_10','_com_10')"
+onmouseout=3D"msoCommentHide('_com_10')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_10"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>nah, not <span class=3DSpellE>erally</span>,=
+ just
+surprised<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_11" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_11','_com_11')"
+onmouseout=3D"msoCommentHide('_com_11')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Heather Ng"'><![if !supportAnnotations]><a name=3D"_msocom_11"></a><![endi=
+f]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>.<span class=3DSpellE>odt</span> is for word
+processing/text documents. I believe that's what we want to support - .<span
+class=3DSpellE>odf</span> is for something else (according to wiki, it's for
+formulas of some sort). <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Can we update this? +tom@plangrid.com<o:p></=
+o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_12" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_12','_com_12')"
+onmouseout=3D"msoCommentHide('_com_12')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_12"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+alexei@plangrid.com FYI I added videos<o:p>=
+</o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_13" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_13','_com_13')"
+onmouseout=3D"msoCommentHide('_com_13')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_13"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>_Marked as resolved_<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_14" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_14','_com_14')"
+onmouseout=3D"msoCommentHide('_com_14')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_14"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>_Re-opened_<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_15" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_15','_com_15')"
+onmouseout=3D"msoCommentHide('_com_15')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_15"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Don't add them to our MVP, unless
++mark@plangrid.com confirmed those will be supported. I Thought MVP is open=
+ in,
+with some platforms (<span class=3DSpellE>ios</span>) allowing more?<o:p></=
+o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_16" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_16','_com_16')"
+onmouseout=3D"msoCommentHide('_com_16')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_16"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>*.<span class=3DSpellE>wmv</span> is prob mo=
+re
+popular than <span class=3DSpellE>webm</span>/f4v?<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_17" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_17','_com_17')"
+onmouseout=3D"msoCommentHide('_com_17')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_17"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>This is not to be viewed in the app. Simply
+available for &quot;Open in&quot;<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_18" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_18','_com_18')"
+onmouseout=3D"msoCommentHide('_com_18')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_18"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+chris.ginter@plangrid.com I think MVP for w=
+eb
+is show images and pdfs and if time <span class=3DGramE>allows</span> we ca=
+n do
+spreadsheets too<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_19" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_19','_com_19')"
+onmouseout=3D"msoCommentHide('_com_19')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Chris Ginter"'><![if !supportAnnotations]><a name=3D"_msocom_19"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+1<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_20" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_20','_com_20')"
+onmouseout=3D"msoCommentHide('_com_20')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_20"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>iOS should <span class=3DGramE>actually be</=
+span>
+able to render most formats, and will have the open in for unsupported form=
+ats<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_21" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_21','_com_21')"
+onmouseout=3D"msoCommentHide('_com_21')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Tom Alterman"'><![if !supportAnnotations]><a name=3D"_msocom_21"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+emilyvm@plangrid.com +bank@plangrid.com
++drew.register@plangrid.com FYI on a known issue with RFIs<o:p></o:p></span=
+></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_22" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_22','_com_22')"
+onmouseout=3D"msoCommentHide('_com_22')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Drew Register"'><![if !supportAnnotations]><a name=3D"_msocom_22"></a><![e=
+ndif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Is this any version of iOS except the single
+most current? Or will some older versions work ok?<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_23" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_23','_com_23')"
+onmouseout=3D"msoCommentHide('_com_23')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_23"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Will added &quot;type&quot; to every <span
+class=3DSpellE><span class=3DGramE>attachment.upload</span>.create</span> e=
+vent<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_24" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_24','_com_24')"
+onmouseout=3D"msoCommentHide('_com_24')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_24"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+tom@plangrid.com same comment as above
+(multiple files)<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_25" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_25','_com_25')"
+onmouseout=3D"msoCommentHide('_com_25')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Nik Moores"'><![if !supportAnnotations]><a name=3D"_msocom_25"></a><![endi=
+f]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Windows will be using &quot;<span class=3DSp=
+ellE>attachment.add</span>&quot;
+which is the currently accepted naming.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>See:
+https://docs.google.com/spreadsheets/d/1thl4MOMxbo5Bj11QZDWu9cZCsQkz62g8caM=
+ab5JLum4/edit#gid=3D333143478<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>cc: +mark@plangrid.com +rebeca@plangrid.com<=
+o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_26" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_26','_com_26')"
+onmouseout=3D"msoCommentHide('_com_26')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_26"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+mark@plangrid.com we already do this<o:p></=
+o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_27" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_27','_com_27')"
+onmouseout=3D"msoCommentHide('_com_27')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Mark Vulfson"'><![if !supportAnnotations]><a name=3D"_msocom_27"></a><![en=
+dif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+alexei@plangrid.com FYI<o:p></o:p></span></=
+p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_28" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_28','_com_28')"
+onmouseout=3D"msoCommentHide('_com_28')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_28"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>good idea<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_29" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_29','_com_29')"
+onmouseout=3D"msoCommentHide('_com_29')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_29"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>+mark@plangrid.com So the developers can tes=
+t on
+actual projects<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_30" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_30','_com_30')"
+onmouseout=3D"msoCommentHide('_com_30')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Alexei Schiopu"'><![if !supportAnnotations]><a name=3D"_msocom_30"></a><![=
+endif]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>Also do you mind giving me a heads up when
+testing occurs, I'd like to include my changes in iOS to be part of that.<o=
+:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+<div style=3D'mso-element:comment'><![if !supportAnnotations]>
+
+<div id=3D"_com_31" class=3Dmsocomtxt language=3DJavaScript
+onmouseover=3D"msoCommentShow('_anchor_31','_com_31')"
+onmouseout=3D"msoCommentHide('_com_31')"><![endif]><span style=3D'mso-comme=
+nt-author:
+"Heather Ng"'><![if !supportAnnotations]><a name=3D"_msocom_31"></a><![endi=
+f]></span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-pagination:none'><span style=3D'font-family:"Arial",sans-serif;
+mso-fareast-font-family:Arial'>New dev PR branch:
+https://plangrid-dev-pr-4198.herokuapp.com/<o:p></o:p></span></p>
+
+<![if !supportAnnotations]></div>
+
+<![endif]></div>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D56D9D.65853760
+Content-Location: file:///C:/DE7B4D03/SampleSpec_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQC2
+9GeYkwcAAMkgAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZzYsbyRW/B/I/NH2X9dWtj8Hy
+ok/P2jO2sWSHPdZIpe7yVHeJqtKMxWII3lMugcAm5JCFve0hhCzswi655I8x2CSbPyKvqlvdVVLJ
+nhkcMGFGMHSXfu/Vr9579d5T1d3PXibUu8BcEJb2/Pqdmu/hdM4WJI16/rPZpNLxPSFRukCUpbjn
+b7DwP7v361/dRUcyxgn2QD4VR6jnx1KujqpVMYdhJO6wFU7huyXjCZLwyqPqgqNL0JvQaqNWa1UT
+RFLfS1ECah8vl2SOvZlS6d/bKh9TeE2lUANzyqdKNbYkNHZxXlcIsRFDyr0LRHs+zLNglzP8Uvoe
+RULCFz2/pv/86r27VXSUC1F5QNaQm+i/XC4XWJw39Jw8OismDYIwaPUL/RpA5T5u3B63xq1Cnwag
++RxWmnGxdbYbwyDHGqDs0aF71B416xbe0N/c49wP1cfCa1CmP9jDTyZDsKKF16AMH+7hw0F3MLL1
+a1CGb+3h27X+KGhb+jUopiQ930PXwlZzuF1tAVkyeuyEd8Ng0m7kyksUREMRXWqKJUvloVhL0AvG
+JwBQQIokST25WeElmkMUDxElZ5x4JySKIfBWKGUChmuN2qTWhP/qE+gn7VF0hJEhrXgBE7E3pPh4
+Ys7JSvb8B6DVNyBvf/75zesf37z+6c1XX715/fd8bq3KkjtGaWTK/fLdH/7zzW+9f//w7S9f/zGb
+ehcvTPy7v/3u3T/++T71sOLSFG//9P27H79/++ff/+uvXzu09zk6M+EzkmDhPcKX3lOWwAId/PEZ
+v57ELEbElOinkUApUrM49I9lbKEfbRBFDtwA23Z8ziHVuID31y8swtOYryVxaHwYJxbwlDE6YNxp
+hYdqLsPMs3UauSfnaxP3FKEL19xDlFpeHq9XkGOJS+UwxhbNJxSlEkU4xdJT37FzjB2r+4IQy66n
+ZM6ZYEvpfUG8ASJOk8zImRVNpdAxScAvGxdB8Ldlm9Pn3oBR16pH+MJGwt5A1EF+hqllxvtoLVHi
+UjlDCTUNfoJk7CI53fC5iRsLCZ6OMGXeeIGFcMk85rBew+kPIc243X5KN4mN5JKcu3SeIMZM5Iid
+D2OUrFzYKUljE/u5OIcQRd4TJl3wU2bvEPUOfkDpQXc/J9hy94ezwTPIsCalMkDUN2vu8OV9zKz4
+nW7oEmFXqunzxEqxfU6c0TFYR1Zon2BM0SVaYOw9+9zBYMBWls1L0g9iyCrH2BVYD5Adq+o9xQJ6
+JdXc7OfJEyKskJ3iiB3gc7rZSTwblCaIH9L8CLxu2nwMpS5xBcBjOj83gY8I9IAQL06jPBagwwju
+g1qfxMgqYOpduON1wy3/XWWPwb58YdG4wr4EGXxtGUjspsx7bTND1JqgDJgZgi7DlW5BxHJ/KaKK
+qxZbO+WW9qYt3QDdkdX0JCT9YAe00/uE/7veBzqMt3/5xrEPPk6/41ZsJatrdjqHksnxTn9zCLfb
+1QwZX5BPv6kZoXX6BEMd2c9Ytz3NbU/j/9/3NIf2820nc6jfuO1kfOgwbjuZ/HDl43QyZfMCfY06
+8MgOevSxT3Lw1GdJKJ3KDcUnQh/8CPg9s5jAoJLTJ564OAVcxfCoyhxMYOEijrSMx5n8DZHxNEYr
+OB2q+0pJJHLVkfBWTMChkR526lZ4uk5O2SI77KzX1cFmVlkFkuV4LSzG4aBKZuhWuzzAK9RrtpE+
+aN0SULLXIWFMZpNoOki0t4PKSPpYF4zmIKFX9lFYdB0sOkr91lV7LIBa4RX4we3Bz/SeHwYgAkJw
+HgfN+UL5KXP11rvamR/T04eMaUUANNjbCCg93VVcDy5PrS4LtSt42iJhhJtNQltGN3gihp/BeXSq
+0avQuK6vu6VLLXrKFHo+CK2SRrvzPhY39TXI7eYGmpqZgqbeZc9vNUMImTla9fwlHBrDY7KC2BHq
+NxeiEdy8zCXPNvxNMsuKCzlCIs4MrpNOlg0SIjH3KEl6vlp+4Qaa6hyiudUbkBA+WXJdSCufGjlw
+uu1kvFziuTTdbowoS2evkOGzXOH8VovfHKwk2RrcPY0Xl94ZXfOnCEIsbNeVARdEwN1BPbPmgsBl
+WJHIyvjbKUx52jVvo3QMZeOIrmKUVxQzmWdwncoLOvqtsIHxlq8ZDGqYJC+EZ5EqsKZRrWpaVI2M
+w8Gq+2EhZTkjaZY108oqqmq6s5g1w7YM7NjyZkXeYLU1MeQ0s8JnqXs35Xa3uW6nTyiqBBi8sJ+j
+6l6hIBjUysksaorxfhpWOTsftWvHdoEfoHaVImFk/dZW7Y7dihrhnA4Gb1T5QW43amFoue0rtaX1
+rbl5sc3OXkDyGEGXu6ZSaFfCyS5H0BBNdU+SpQ3YIi9lvjXgyVtz0vO/rIX9YNgIh5VaJxxXgmZQ
+q3TCfrPSD8NmfRzWa6NB4xUUFhkn9TC7sZ/ABQbd5Pf2enzv7j7Z3tHcmbOkyvTdfFUT13f39cbh
+u3uPQNL5stWYdJvdQavSbfYnlWA06FS6w9agMmoN26PJaBh2upNXvnehwUG/OQxa406lVR8OK0Gr
+puh3upV20Gj0g3a/Mw76r/I2BlaepY/cFmBezevefwEAAP//AwBQSwMEFAAGAAgAAAAhAA3RkJ+2
+AAAAGwEAACcAAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFnZXIueG1sLnJlbHOEj00KwjAU
+hPeCdwhvb9O6EJEm3YjQrdQDhOQ1DTY/JFHs7Q2uLAguh2G+mWm7l53JE2My3jFoqhoIOumVcZrB
+bbjsjkBSFk6J2TtksGCCjm837RVnkUsoTSYkUiguMZhyDidKk5zQilT5gK44o49W5CKjpkHIu9BI
+93V9oPGbAXzFJL1iEHvVABmWUJr/s/04GolnLx8WXf5RQXPZhQUoosbM4CObqkwEylu6usTfAAAA
+//8DAFBLAQItABQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVu
+dF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAKXWp+fAAAAANgEAAAsAAAAAAAAAAAAAAAAAMAEA
+AF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAGt5lhaDAAAAigAAABwAAAAAAAAAAAAAAAAAGQIA
+AHRoZW1lL3RoZW1lL3RoZW1lTWFuYWdlci54bWxQSwECLQAUAAYACAAAACEAtvRnmJMHAADJIAAA
+FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
+0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
+ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
+
+------=_NextPart_01D56D9D.65853760
+Content-Location: file:///C:/DE7B4D03/SampleSpec_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D56D9D.65853760
+Content-Location: file:///C:/DE7B4D03/SampleSpec_files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../SampleSpec.htm">
+<![if IE]>
+<base href=3D"file:///C:/DE7B4D03/SampleSpec_files/header.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3D"#0563C1">
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-separator'><![if !sup=
+portFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-continuation-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-separator'><![if !sup=
+portFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-continuation-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D56D9D.65853760
+Content-Location: file:///C:/DE7B4D03/SampleSpec_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../SampleSpec.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D56D9D.65853760--

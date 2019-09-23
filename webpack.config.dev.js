@@ -73,7 +73,7 @@ module.exports = {
         enforce: 'pre',
       },
       {
-        test: [/\.wexbim$/, /\.jpg$/, /\.docx$/, /\.csv$/, /\.mp4$/, /\.xlsx$/, /\.doc$/, /\.avi$/, /\.webm$/, /\.mov$/, /\.mp3$/, /\.rtf$/, /\.pdf$/],
+        test: [/\.wexbim$/, /\.jpg$/, /\.docx$/, /\.csv$/, /\.mp4$/, /\.xlsx$/, /\.xls$/, /\.xlt$/,/\.xlsm$/, /\.xlsb$/, /\.doc$/, /\.avi$/, /\.webm$/, /\.mov$/, /\.mp3$/, /\.rtf$/, /\.pdf$/, /\.mht$/, /\.txt$/, /\.htm$/, /\.xml$/],
         loader: 'file-loader',
       },
       {

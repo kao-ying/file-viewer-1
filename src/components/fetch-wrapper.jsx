@@ -7,7 +7,7 @@ import Loading from './loading';
 
 function withFetching(WrappedComponent, props) {
   return class extends Component {
-    constructor(props) {
+    constructor(props) { //eslint-disable-line
       super(props);
       this.state = {};
       this.xhr = this.createRequest(props.filePath);
@@ -28,26 +28,9 @@ function withFetching(WrappedComponent, props) {
       this.abort();
     }
 
-    render() {
-      if (!this.xhr) {
-        return <h1>CORS not supported..</h1>;
-      }
-
-      if (this.state.error) {
-        return <Error {...this.props} error={this.state.error} />;
-      }
-
-      if (this.state.data) {
-        return <WrappedComponent data={this.state.data} {...this.props} />;
-      }
-      return (
-        <Loading />
-      );
-    }
-
     createRequest(path) {
       let xhr = new XMLHttpRequest();
-
+      console.log(xhr);
       if ('withCredentials' in xhr) {
         // XHR for Chrome/Firefox/Opera/Safari.
         xhr.open('GET', path, true);
@@ -85,6 +68,22 @@ function withFetching(WrappedComponent, props) {
       if (this.xhr) {
         this.xhr.abort();
       }
+    }
+    render() {
+      if (!this.xhr) {//eslint-disable-line
+        return <h1>CORS not supported..</h1>;
+      }
+
+      if (this.state.error) {
+        return <Error {...this.props} error={this.state.error} />;
+      }
+
+      if (this.state.data) {
+        return <WrappedComponent data={this.state.data} {...this.props} />;
+      }
+      return (
+        <Loading />
+      );
     }
   };
 }

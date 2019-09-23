@@ -15,6 +15,8 @@ import {
   UnsupportedViewer,
   PhotoViewerWrapper,
   AudioViewer,
+  HtmlViewer,
+  RtfViewer,
 } from './drivers';
 
 class FileViewer extends Component {
@@ -37,11 +39,35 @@ class FileViewer extends Component {
       case 'csv': {
         return withFetching(CsvViewer, this.props);
       }
+      case 'html': {
+        return withFetching(HtmlViewer, this.props);
+      }
+      case 'rtf': {
+        return withFetching(RtfViewer, this.props);
+      }
       case 'xlsx': {
         const newProps = Object.assign({}, this.props, { responseType: 'arraybuffer' });
         return withFetching(XlsxViewer, newProps);
       }
-      case 'jpg':
+      case 'xls': {
+        const newProps = Object.assign({}, this.props, { responseType: 'arraybuffer' });
+        return withFetching(XlsxViewer, newProps);
+      }
+      case 'xlsb': {
+        const newProps = Object.assign({}, this.props, { responseType: 'arraybuffer' });
+        return withFetching(XlsxViewer, newProps);
+      }
+      case 'xlt': {
+        const newProps = Object.assign({}, this.props, { responseType: 'arraybuffer' });
+        return withFetching(XlsxViewer, newProps);
+      }
+      case 'xlsm': {
+        const newProps = Object.assign({}, this.props, { responseType: 'arraybuffer' });
+        return withFetching(XlsxViewer, newProps);
+      }
+      case 'jpg': {
+        return PhotoViewerWrapper;
+      }
       case 'jpeg':
       case 'gif':
       case 'bmp':
@@ -52,7 +78,7 @@ class FileViewer extends Component {
         return PDFViewer;
       }
       case 'docx': {
-        return DocxViewer;
+        return withFetching(DocxViewer, this.props);
       }
       case 'mp3': {
         return AudioViewer;
